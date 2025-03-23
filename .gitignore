@@ -97,7 +97,6 @@ celerybeat-schedule.*
 *.sage.py 
 
 # Environments 
-.env
 .env.dev
 .env.prod
 .venv 
@@ -131,7 +130,6 @@ Control.system-ca-bundle
 GitHub.sublime-settings 
 
 # Visual Studio Code # 
-.vscode 
 .history
 *.iml
 *.xml
@@ -162,3 +160,5 @@ ExcelTemplates/*
 *.exe
 
 .codegpt
+config.bat
+node_modules
